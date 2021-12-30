@@ -14,5 +14,7 @@ $
 ## Cypress 初期設定
 
 ```
-$ 
+$ npm install cypress
+$ npx cypress open
+$
 ```
